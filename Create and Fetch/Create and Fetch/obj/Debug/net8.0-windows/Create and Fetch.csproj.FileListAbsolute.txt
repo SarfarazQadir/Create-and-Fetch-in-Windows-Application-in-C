@@ -1,0 +1,24 @@
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\Create and Fetch.exe
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\Create and Fetch.deps.json
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\Create and Fetch.runtimeconfig.json
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\Create and Fetch.dll
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\Create and Fetch.pdb
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\C#\Create and Fetch\Create and Fetch\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.csproj.AssemblyReference.cache
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create_and_Fetch.Form1.resources
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.csproj.GenerateResource.cache
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.AssemblyInfoInputs.cache
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.AssemblyInfo.cs
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.csproj.CoreCompileInputs.cache
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create a.4008478B.Up2Date
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.dll
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\refint\Create and Fetch.dll
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.pdb
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\Create and Fetch.genruntimeconfig.cache
+F:\C#\Create and Fetch\Create and Fetch\obj\Debug\net8.0-windows\ref\Create and Fetch.dll
